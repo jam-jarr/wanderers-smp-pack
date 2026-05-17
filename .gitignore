@@ -1,0 +1,10 @@
+# Whitelisting approach
+# ignore everything
+*
+!*/
+# Track these
+!.gitignore
+!mods/**
+!config/**
+!resourcepacks/**
+!shaderpacks/**
